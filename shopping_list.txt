@@ -3,4 +3,6 @@ maitu
 juusto
 munaa
 juulmust
+riisi
+
 
